@@ -67,6 +67,24 @@ Por políticas de confidencialidad, se incluyen versiones estáticas de los arch
 
 ---
 
-## 👨‍💻 Autor
+## 🚀 Impacto del Proyecto
 
-Fernando Chávez
+- **Centralización y unificación de datos:** consolidación de ventas e inventarios en una única fuente confiable de información.  
+- **Reducción de errores operativos:** disminución de inconsistencias mediante la automatización y estandarización del registro.  
+- **Mejora en la calidad de datos (data quality):** implementación de estructuras y validaciones que garantizan información consistente y analizable.  
+- **Control eficiente del stock por tienda:** visibilidad y trazabilidad completa de los movimientos de inventario en el modelo de consignación.  
+- **Habilitación de analítica de negocio (BI):** transformación de datos operativos en indicadores clave mediante un dashboard interactivo para la toma de decisiones.
+
+---
+
+## ⏱️ Duración del Proyecto
+
+- **Tiempo de implementación:** 2 semanas  
+- **Alcance:** Diseño, desarrollo e implementación del sistema de ventas, inventarios y dashboard analítico  
+
+---
+
+## 👨‍💻 Encargados del Proyecto
+
+- Luis Fernando Chávez Boza
+- Johan Antonio Cesar Escobar Riveros
