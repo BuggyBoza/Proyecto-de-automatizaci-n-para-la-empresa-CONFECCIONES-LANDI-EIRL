@@ -26,13 +26,13 @@ Sistema desarrollado en Google Sheets (aplicacióna a pedido de la empresa) que 
 Se diseñó e implementó un **sistema centralizado de gestión de ventas e inventarios en Google Sheets**, orientado a mejorar la trazabilidad, calidad y control de la información operativa.
 
 - **Estandarización mediante codificación de productos:**  
-  Creación de códigos generales (producto) y códigos específicos (producto + talla) para asegurar una identificación precisa y reducir errores en el registro.
+  Creación de códigos generales (producto) y códigos específicos (producto + talla o modelo) para asegurar una identificación precisa y reducir errores en el registro.
 
 - **Registro de ventas estructurado:**  
-  Implementación de una interfaz simple para registrar transacciones, capturando el detalle de cada venta y almacenándola automáticamente en una base de datos consolidada.
+  Implementación de una interfaz simple para registrar el detalle de cada venta y almacenándola automáticamente en una base de datos consolidada.
 
 - **Base de datos centralizada de ventas:**  
-  Consolidación de todas las ventas en una única hoja, habilitando su análisis y conexión directa con herramientas de BI.
+  Consolidación de todas las ventas en una única hoja, habilitando su análisis y conexión directa con herramientas de BI, en este caso Looker Studio.
 
 - **Sistema de inventarios por tienda:**  
   Desarrollo de un registro que permite gestionar ingresos y salidas de productos por tienda, generando una base de datos estructurada de inventarios.
