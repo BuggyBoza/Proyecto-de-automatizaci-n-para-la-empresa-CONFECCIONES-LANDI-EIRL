@@ -27,7 +27,9 @@ Se diseñó e implementó un **sistema centralizado de gestión de ventas e inve
 
 - **Estandarización mediante codificación de productos:**  
   Creación de códigos generales (producto) y códigos específicos (producto + talla) para asegurar una identificación precisa y reducir errores en el registro.
-![Códigos Generales](Codigos-Generales.png)
+<p align="center">
+  <img src="Códigos Generales.png" width="100%">
+</p>
 - **Registro de ventas estructurado:**  
   Implementación de una interfaz simple para registrar transacciones, capturando el detalle de cada venta y almacenándola automáticamente en una base de datos consolidada.
 
