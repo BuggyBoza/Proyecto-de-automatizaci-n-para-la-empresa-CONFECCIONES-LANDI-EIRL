@@ -1,5 +1,5 @@
 # 📊 Sistema de Gestión de Ventas e Inventarios con Automatización de Stock y Dashboard Analítico
-Sistema de gestión desarrollado en Google Sheets que integra el registro de ventas e inventarios en un único entorno, permitiendo el control automatizado del stock por tienda y la generación de indicadores analíticos mediante visualización en Looker Studio.
+Sistema de gestión desarrollado en Google Sheets (aplicacióna a pedido de la empresa) que integra el registro de ventas e inventarios en un único entorno, permitiendo el control automatizado del stock por tienda y la generación de indicadores analíticos mediante visualización en Looker Studio.
 
 ---
 
