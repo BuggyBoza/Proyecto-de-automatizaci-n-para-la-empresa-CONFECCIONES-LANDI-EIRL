@@ -61,7 +61,9 @@ Por políticas de confidencialidad, se incluyen versiones estáticas de los arch
   👉 [Acceder al archivo](https://docs.google.com/spreadsheets/d/16aBkA_BGrYLpfIogN06zFZ2Dcnq3KoUXRjQLUCKx95o/edit?usp=sharing)
 
 - 📦 **Dashboard en Looker Studio:**  
-
+<p align="center">
+  <img src="Dashboard_Looker Studio.png" width="80%">
+</p>
 
 ---
 
