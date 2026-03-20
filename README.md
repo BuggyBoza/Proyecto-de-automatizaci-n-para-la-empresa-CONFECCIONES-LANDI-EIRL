@@ -13,7 +13,7 @@ Sistema desarrollado en Google Sheets (aplicacióna a pedido de la empresa) que 
   
 ---
 
-## 🎯 Objetivos del Proyecto
+# 💡 Solución Implementada
 
 - Centralizar el registro de ventas e inventarios en un entorno unificado  
 - Automatizar el cálculo de stock por tienda en tiempo real  
