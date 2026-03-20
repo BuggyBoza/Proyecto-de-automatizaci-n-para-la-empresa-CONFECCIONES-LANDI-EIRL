@@ -1,2 +1,2 @@
-# Proyecto-de-automatizaci-n-para-la-empresa-CONFECCIONES-LANDI-EIRL
-Creación del Registro de Ventas e Inventarios, automatización del Stock por cada tienda y dashboard de las Ventas interactivo.
+# 📊 Sistema de Gestión de Ventas e Inventarios con Automatización de Stock y Dashboard Analítico
+Sistema desarrollado en Google Sheets que integra el registro de ventas e inventarios en un entorno unificado, permitiendo la actualización automática del stock por tienda a partir de los movimientos de entrada y salida. La información es transformada en indicadores analíticos mediante un dashboard en Looker Studio, facilitando el análisis de ventas, productos y desempeño comercial a través de visualizaciones interactivas.
