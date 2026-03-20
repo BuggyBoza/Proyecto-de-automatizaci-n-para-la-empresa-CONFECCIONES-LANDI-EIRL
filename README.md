@@ -23,56 +23,29 @@ Sistema desarrollado en Google Sheets (aplicacióna a pedido de la empresa) que 
 
 ## 💡 Solución Implementada
 
-- Centralizar el registro de ventas e inventarios en un entorno unificado  
-- Automatizar el cálculo de stock por tienda en tiempo real  
-- Transformar datos operativos en indicadores analíticos  
-- Facilitar la toma de decisiones mediante visualización interactiva  
+Se diseñó e implementó un **sistema centralizado de gestión de ventas e inventarios en Google Sheets**, orientado a mejorar la trazabilidad, calidad y control de la información operativa.
 
----
+- **Estandarización mediante codificación de productos:**  
+  Creación de códigos generales (producto) y códigos específicos (producto + talla) para asegurar una identificación precisa y reducir errores en el registro.
 
-## ⚙️ Funcionalidades del Sistema
+- **Registro de ventas estructurado:**  
+  Implementación de una interfaz simple para registrar transacciones, capturando el detalle de cada venta y almacenándola automáticamente en una base de datos consolidada.
 
-- Integración de ventas e inventarios en una única base de datos  
-- Actualización automática del stock por tienda  
-- Registro de ingresos y salidas de productos  
-- Análisis dinámico mediante filtros por fecha, producto y talla  
-- Visualización de KPIs comerciales en dashboard  
+- **Base de datos centralizada de ventas:**  
+  Consolidación de todas las ventas en una única hoja, habilitando su análisis y conexión directa con herramientas de BI.
 
----
+- **Sistema de inventarios por tienda:**  
+  Desarrollo de un registro que permite gestionar ingresos y salidas de productos por tienda, generando una base de datos estructurada de inventarios.
 
-## 🔗 Accesos al Proyecto
+- **Automatización del stock:**  
+  Integración de ventas, ingresos y salidas para actualizar automáticamente el stock por tienda, donde cada movimiento impacta directamente en el inventario.
 
-📄 **Base de datos (Google Sheets):**  
-👉 [Ver archivo](AQUI_TU_LINK_DE_GOOGLE_SHEETS)
+- **Trazabilidad de la información:**  
+  Registro completo de cada movimiento, asegurando consistencia, transparencia y validación del stock.
 
-📊 **Dashboard en Looker Studio:**  
-👉 [Ver dashboard](AQUI_TU_LINK_DE_LOOKER)
+- **Integración con dashboard:**  
+  Conexión de la base de datos con un dashboard en Looker Studio, permitiendo la actualización automática de indicadores y eliminando procesos manuales de análisis.
 
----
-
-## 📊 Indicadores Analizados
-
-- Productos más vendidos  
-- Ventas por periodo de tiempo  
-- Tallas con mayor demanda  
-- Ingresos totales  
-
----
-
-## ⚙️ Flujo del Sistema
-
-Google Sheets (Ventas + Inventarios)  
-        ↓  
-Actualización automática de stock  
-        ↓  
-Looker Studio (Visualización y análisis)  
-
----
-
-## 🛠 Tecnologías Utilizadas
-
-- Google Sheets (gestión y modelado de datos)  
-- Looker Studio (visualización de datos)  
 
 ---
 
