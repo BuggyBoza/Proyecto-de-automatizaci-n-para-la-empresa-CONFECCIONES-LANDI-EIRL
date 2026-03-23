@@ -59,6 +59,13 @@ Por políticas de confidencialidad, se incluyen versiones estáticas de los arch
 
 - 📄 **Registro de Ventas e Inventarios:**  
   👉 [Acceder al archivo](https://docs.google.com/spreadsheets/d/16aBkA_BGrYLpfIogN06zFZ2Dcnq3KoUXRjQLUCKx95o/edit?usp=sharing)
+<p align="center">
+  <img src="Registro de Ventas.png" width="80%" />
+</p>
+
+<p align="center">
+  <img src="Registro de Inventarios.png" width="80%" />
+</p>
 
 - 📊 **Dashboard en Looker Studio:**  
 <p align="center">
