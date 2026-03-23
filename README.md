@@ -77,10 +77,16 @@ Por políticas de confidencialidad, se incluyen versiones estáticas de los arch
 
 ---
 
-## ⏱️ Duración del Proyecto
+## 🛠️ Herramientas Utilizadas
 
-- **Tiempo de implementación:** 2 semanas  
-- **Alcance:** Diseño, desarrollo e implementación del sistema de ventas, inventarios y dashboard analítico  
+- **Google Sheets:**  
+  Gestión y estructuración de la base de datos de ventas e inventarios.
+
+- **Google Apps Script:**  
+  Automatización de procesos mediante macros para el registro de ventas e inventarios.
+
+- **Looker Studio:**  
+  Desarrollo de dashboards interactivos para la visualización y análisis de datos.
 
 ---
 
